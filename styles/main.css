@@ -1,0 +1,7 @@
+@import "tailwind.css";
+
+@import "./global.css";
+@import "./login.css";
+@import "navbar.css";
+@import "admin.css";
+@import "matiere.css";
